@@ -28,8 +28,8 @@
 
 - ⚡ Fun fact **Life is Fun!**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://linkedin.com/in/juneju-darad" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="juneju-darad" height="30" width="40" /></a>
 <a href="https://kaggle.com/juneju" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="juneju" height="30" width="40" /></a>
 <a href="https://fb.com/juneju.darad" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="juneju.darad" height="30" width="40" /></a>
