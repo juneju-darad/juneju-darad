@@ -15,8 +15,6 @@
 
 - 👨‍💻 All of my projects are available at [here!](here!)
 
-- 📝 I regularly write articles on [my mind!](my mind!)
-
 - 💬 Ask me about **nothing!**
 
 - 📫 How to reach me **djuneju@gmail.com**
@@ -39,6 +37,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=juneju-darad&show_icons=true&locale=en&layout=compact" alt="juneju-darad" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juneju-darad&show_icons=true&locale=en" alt="juneju-darad" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=juneju-darad&show_icons=true&locale=en" alt="juneju-darad" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juneju-darad&" alt="juneju-darad" /></p>
