@@ -33,6 +33,7 @@
 
 ### :zap: Github Stats
 
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=juneju-darad&show_icons=true&count_private=true&theme=tokyonight&bg_color=24292e" alt="Juneju's Github Stats" width="60%">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juneju-darad&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Juneju's Top Languages">
 
@@ -46,7 +47,5 @@
 <a href="https://www.leetcode.com/juneju_darad" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="juneju_darad" height="30" width="40" /></a>
 <a href="https://discord.gg/  target="blank""><img align="center" title="Discord - Miku#0039" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg"></a>
 </p>
-
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=juneju-darad&show_icons=true&count_private=true&theme=tokyonight&bg_color=24292e" alt="Juneju's Github Stats" width="60%">
 
 
