@@ -3,6 +3,9 @@
 
 <h1 align="center">Hi 👋, I'm Juneju Darad</h1> 
 
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=juneju-darad&label=Profile%20views&color=0e75b6&style=flat" alt="juneju-darad" /> </p>
+
+
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juneju-darad" alt="juneju-darad" /></a> </p>
 
 <!--- <h3 align="center">A passionate learner from Bangladesh</h3> --->
@@ -48,6 +51,4 @@
 <a href="https://www.leetcode.com/juneju_darad" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="juneju_darad" height="30" width="40" /></a>
 <a href="https://discord.gg/  target="blank""><img align="center" title="Discord - Miku#0039" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg"></a>
 </p>
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=juneju-darad&label=Profile%20views&color=0e75b6&style=flat" alt="juneju-darad" /> </p>
-
 
