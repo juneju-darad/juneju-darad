@@ -1,8 +1,9 @@
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 
+
 <h1 align="center">Hi 👋, I'm Juneju Darad</h1> 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=juneju-darad&label=Profile%20views&color=0e75b6&style=flat" alt="juneju-darad" /> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juneju-darad" alt="juneju-darad" /></a> </p>
 
 <!--- <h3 align="center">A passionate learner from Bangladesh</h3> --->
 
@@ -37,10 +38,8 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juneju-darad&show_icons=true&hide_border=true&theme=radical" width="35%" alt="Juneju's Top Languages">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juneju-darad" alt="juneju-darad" /></a> </p>
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 <a href="https://linkedin.com/in/juneju-darad" target="blank"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" alt="juneju-darad" height="30" width="40" /></a>
 <a href="https://kaggle.com/juneju" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="juneju" height="30" width="40" /></a>
 <a href="https://fb.com/juneju.darad" target="blank"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" alt="juneju.darad" height="30" width="40" /></a>
@@ -49,5 +48,6 @@
 <a href="https://www.leetcode.com/juneju_darad" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="juneju_darad" height="30" width="40" /></a>
 <a href="https://discord.gg/  target="blank""><img align="center" title="Discord - Miku#0039" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg"></a>
 </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=juneju-darad&label=Profile%20views&color=0e75b6&style=flat" alt="juneju-darad" /> </p>
 
 
