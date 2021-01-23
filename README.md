@@ -2,11 +2,9 @@
 
 <h1 align="center">Hi 👋, I'm Juneju Darad</h1> 
 
-<!--- <h3 align="center">A passionate learner from Bangladesh</h3> --->
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=juneju-darad&label=Profile%20views&color=0e75b6&style=flat" alt="juneju-darad" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juneju-darad" alt="juneju-darad" /></a> </p>
+<!--- <h3 align="center">A passionate learner from Bangladesh</h3> --->
 
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
@@ -37,10 +35,12 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=juneju-darad&show_icons=true&count_private=true&theme=tokyonight&bg_color=24292e" alt="Juneju's Github Stats" width="60%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juneju-darad&show_icons=true&hide_border=true&theme=radical" width="30%" alt="Juneju's Top Languages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juneju-darad&show_icons=true&hide_border=true&theme=radical" width="35%" alt="Juneju's Top Languages">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juneju-darad" alt="juneju-darad" /></a> </p>
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://linkedin.com/in/juneju-darad" target="blank"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" alt="juneju-darad" height="30" width="40" /></a>
 <a href="https://kaggle.com/juneju" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="juneju" height="30" width="40" /></a>
 <a href="https://fb.com/juneju.darad" target="blank"><img align="center" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" alt="juneju.darad" height="30" width="40" /></a>
